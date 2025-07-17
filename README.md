@@ -21,7 +21,7 @@ We propose a style-aware blending and prototype-based cross-contrast consistency
 ## Main Results
 
 ### Synapse Multi-Organ Dataset
-| Method | Labeled | DSC ↑ | ASD ↓ | Aorta | GB | KL | KR | Liver | PC | SP | SM |
+| Method | Labeled | DSC | ASD | Aorta | GB | KL | KR | Liver | PC | SP | SM |
 |--------|---------|-------|-------|-------|----|----|----|----|----|----|-----|
 | Ours (MT) | 1 (5%) | 60.00 | 19.73 | 79.53 | 40.52 | 68.59 | 63.05 | 89.80 | 20.70 | 78.38 | 39.00 |
 | Ours (BCP) | 1 (5%) | 61.87 | 18.81 | 80.07 | 38.78 | 68.30 | 63.12 | 91.60 | 24.54 | 80.65 | 47.93 |
@@ -29,7 +29,7 @@ We propose a style-aware blending and prototype-based cross-contrast consistency
 | Ours (BCP) | 4 (10%) | 66.59 | 23.52 | 81.79 | 40.09 | 76.80 | 68.64 | 90.43 | 38.80 | 75.79 | 60.39 |
 
 ### ACDC Cardiac Dataset
-| Method | Labeled | DSC ↑ | ASD ↓ | Myo | LV | RV |
+| Method | Labeled | DSC | ASD | Myo | LV | RV |
 |--------|---------|-------|-------|-----|----|----|
 | Ours (MT) | 3 (5%) | 87.31 | 1.10 | 85.60 | 84.90 | 91.42 |
 | Ours (BCP) | 3 (5%) | 88.60 | 0.61 | 87.36 | 85.51 | 92.93 |
