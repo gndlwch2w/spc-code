@@ -6,7 +6,7 @@
 <div><sup>1</sup>School of Information Science and Engineering, Yunnan University, Kunming, 650504, Yunnan, China</div>
 <div><sup>2</sup>Yunnan Key Laboratory of Intelligent Systems and Computing, Yunnan University, Kunming, 650504, Yunnan, China</div>
 
-Paper: ([arXiv #](https://arxiv.org/abs/#))
+Paper: ([arXiv 2507.20729](https://arxiv.org/pdf/2507.20729))
 
 </div>
 
