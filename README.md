@@ -69,7 +69,7 @@ $DATASET_HOME/
 ```
 
 ### Synapse Multi-Organ Dataset
-Sign up at the [official Synapse website](https://www.synapse.org/#!Synapse:syn3193805/wiki/89480) or download the dataset using the [preprocessed data](https://drive.google.com/file/d/1tGqMx-E4QZpSg2HQbVq5W3KSTHSG0hjK/view?usp=share_link). Split the dataset according to the 5% and 10% protocols and organize it in a structure similar to the ACDC dataset.
+Sign up at the [official Synapse website](https://www.synapse.org/#!Synapse:syn3193805/wiki/89480) or download the dataset using the [preprocessed data](https://drive.google.com/file/d/1BvpY0g9mKkkhdHpAX1HqDw8iTJNbFuwq/view). Split the dataset according to the 5% and 10% protocols and organize it in a structure similar to the ACDC dataset.
 
 ## Training
 
